@@ -48,7 +48,7 @@ Note: All the dependecies are freezed in the "requirements.txt" file.
 ![2](https://user-images.githubusercontent.com/63240844/234033311-182890c4-220f-4a5f-8e5d-9ac154fc455b.png) 
 
 # Process of the execution of the program.
-1. Clone the file using command:  ```git clone <repo link>``` 
-2. Run the following command to install the dependecies: ``` pip install -r requirements.txt```
-3. Execute the control_room.py file which controls the whole processes for the same.**
-4. After the successful execution, you can check the AWS S3 bucket.** 
+1. Clone the file using command:  ``` git clone <repo link> ``` 
+2. Run the following command to install the dependecies: ``` pip install -r requirements.txt ```
+3. Execute the control_room.py file which controls the whole processes for the same.
+4. After the successful execution, you can check the AWS S3 bucket.
