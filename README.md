@@ -36,3 +36,14 @@ Note: All the dependecies are freezed in the "requirements.txt" file.
 * **helping_function.py**     : This is the module that helps the control_room as all the functionalities are written in this file.
 * **logger.py**               : This module initializes the logger which is keeping tracking of all the processes that is happening in control_room and maintaing the logs for the same.
 * **testing_the_project.py**  : This module helps in testing the whole project based on certain testcases.
+
+# Screenshot of the upload of the file to AWS S3 bucket.
+
+* Firstly, I created the bucket on AWS:
+
+![1](https://user-images.githubusercontent.com/63240844/234033246-231db345-2e76-48ec-90c8-5382ea8dcce4.png)
+
+* Proof of the upload of the file to S3 bucket:
+
+![2](https://user-images.githubusercontent.com/63240844/234033311-182890c4-220f-4a5f-8e5d-9ac154fc455b.png) 
+
